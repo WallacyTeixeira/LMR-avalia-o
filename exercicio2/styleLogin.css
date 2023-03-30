@@ -1,0 +1,10 @@
+body{
+    background-color: brown;
+
+}
+.login{
+    background-color: rgb(113, 56, 56);
+    width: max-content;
+    margin-left: 40%;
+    margin-right: 40%;
+}

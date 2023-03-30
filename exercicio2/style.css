@@ -1,0 +1,9 @@
+body{
+    background-color: cyan;
+}
+.Carpeado{
+    background-color: chartreuse;
+    width: max-content;
+    margin-left: 40%;
+    margin-right: 40%;
+}
